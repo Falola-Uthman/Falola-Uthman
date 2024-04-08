@@ -16,9 +16,9 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 | Incident Response Planning and Execution       | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Case Management with TheHive                   | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
-|Penetration Testing                             | Active Directory Security Enhancement |
-| SIEM Implementation and Log Analysis (Splunk)                               | Active Directory Security Enhancement |
-|Incident Analysis                               | Active Directory Security Enhancement |
+|Penetration Testing                             | <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement</a>|
+| SIEM Implementation and Log Analysis (Splunk)                               | <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement</a> |
+|Incident Analysis                               | <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement</a> |
 |Honeypot Implementation                         | Honeypot Deployment and Management |
 |Intrusion Detection                             | Honeypot Deployment and Management |
 |Threat Intelligence                             | Honeypot Deployment and Management |
@@ -104,8 +104,8 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 </div>
 
 ## Projects
-- SOC Automation Lab
-- Active Directory Security Enhancement:  From Penetration Testing to Log Analysis with Splunk
+- <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>
+- <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement: From Penetration Testing to Log Analysis with Splunk</a>
 - Honeypot Deployment and Management
 - Polymorphisim Code
 - Threat Hunting and Analysis of  SSH
