@@ -12,10 +12,10 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR          | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/edit/main/README.md">SOC Automation Lab</a>|
-| Incident Response Planning and Execution       | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/edit/main/README.md">SOC Automation Lab</a>|
-| Case Management with TheHive                   | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/edit/main/README.md">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/edit/main/README.md">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR          | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| Incident Response Planning and Execution       | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| Case Management with TheHive                   | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 |Penetration Testing                             | Active Directory Security Enhancement |
 | SIEM Implementation and Log Analysis (Splunk)                               | Active Directory Security Enhancement |
 |Incident Analysis                               | Active Directory Security Enhancement |
