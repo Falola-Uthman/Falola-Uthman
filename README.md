@@ -1,60 +1,114 @@
 # Hello, I'm Uthman
 <a href="https://linkedin.com/in/uthman-falola-250692156"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 As an upcoming December 2024 Master's graduate in IT Security from Ontario Tech University, with 5 years of cross-sector experience in manufacturing, construction, and oil & gas, I am deeply passionate about technology and committed to solving complex problems in the cybersecurity field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 From a foundation in diverse industries and a Master’s in IT Security from Ontario Tech University in progress,I am keen to apply my expertise in a Security Operations Center role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Network Traffic Monitoring and Threat Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR          | SOC Automation Lab|
+| Incident Response Planning and Execution       | SOC Automation Lab|
+| Case Management with TheHive                   | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|Penetration Testing                             | Active Directory Security Enhancement |
+|Splunk Analytics                                | Active Directory Security Enhancement |
+|Incident Analysis                               | Active Directory Security Enhancement |
+|Honeypot Implementation                         | Honeypot Deployment and Management |
+|Intrusion Detection                             | Honeypot Deployment and Management |
+|Threat Intelligence                             | Honeypot Deployment and Management |
+| Cryptographic Implementation                 | Polymorphism Code |
+| Secure Coding Practices                      | Polymorphism Code |
+| Code Obfuscation Techniques                  | Polymorphism Code |
+| Malware Defense Strategies                   | Polymorphism Code |
+| Intellectual Property Protection             | Polymorphism Code |
+| Network Traffic Analysis                     | Threat Hunting and Analysis of SSH    |
+| Anomaly Detection                            | Threat Hunting and Analysis of SSH    |
+| Incident Handling                            | Threat Hunting and Analysis of SSH    |
+| Exploit Development                          | Vulnerability Exploitation (Buffer Overflow) |
+| Application Security Testing                 | Vulnerability Exploitation (Buffer Overflow) |
+| Secure Coding Practices                      | Vulnerability Exploitation (Buffer Overflow) |
+
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Penetration Testing & Security
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Crowbar-602C50?&style=for-the-badge&logo=Crowbar&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fedora-51A2DA?&style=for-the-badge&logo=Fedora&logoColor=white" />
+</div>
+
+### Security Information & Event Management
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK_Stack-005571?&style=for-the-badge&logo=ElasticStack&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### Security Orchestration
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-FF4000?&style=for-the-badge&logo=TheHive&logoColor=white" />
+</div>
+
+### Threat Simulation
+<div>
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-7D003C?&style=for-the-badge&logo=AtomicRedTeam&logoColor=white" />
+</div>
+
+### Development & Threat Modeling
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Visio-3955A3?&style=for-the-badge&logo=MicrosoftVisio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Threat_Modeling_Tool-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Endpoint Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Logging & Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Sysmon&logoColor=white" />
+</div>
+
+### Honeypot
+<div>
+    <img src="https://img.shields.io/badge/-TPot-FF4000?&style=for-the-badge&logo=TPot&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> | in View
+    <br>
+    <img src="https://img.shields.io/badge/-CySA%2B-0085CA?&style=for-the-badge&logo=CompTIA&logoColor=white" /> | in View
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Automation Lab
+- Active Directory Security Enhancement:  From Penetration Testing to Log Analysis with Splunk
+- Honeypot Deployment and Management
+- Polymorphisim Code
+- Threat Hunting and Analysis of  SSH
+- Vulnerability Exploitation (Buffer Overflow)
