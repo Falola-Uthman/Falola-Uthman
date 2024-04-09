@@ -6,7 +6,7 @@ As an upcoming December 2024 Master's graduate in IT Security from Ontario Tech 
 
 ## Objective
 
-From a foundation in diverse industries and a Master’s in IT Security from Ontario Tech University in progress,I am keen to apply my expertise in a Security Operations Center role.
+From a foundation in diverse industries and a Master’s in IT Security from Ontario Tech University in progress,I am keen to apply my expertise as a Security Analyst.
 
 ## Skills
 
@@ -19,9 +19,9 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 |Penetration Testing                             | <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement</a>|
 | SIEM Implementation and Log Analysis (Splunk)                               | <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement</a> |
 |Incident Analysis                               | <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement</a> |
-|Honeypot Implementation                         | Honeypot Deployment and Management |
-|Intrusion Detection                             | Honeypot Deployment and Management |
-|Threat Intelligence                             | Honeypot Deployment and Management |
+|Honeypot Implementation                         | <a href="https://github.com/Falola-Uthman/Honeypot-Deployment-and-Management/blob/main/README.md">Honeypot Deployment and Management</a> |
+|Intrusion Detection                             | <a href="https://github.com/Falola-Uthman/Honeypot-Deployment-and-Management/blob/main/README.md">Honeypot Deployment and Management</a> |
+|Threat Intelligence                             | <a href="https://github.com/Falola-Uthman/Honeypot-Deployment-and-Management/blob/main/README.md">Honeypot Deployment and Management</a> |
 | Cryptographic Implementation                 | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
 | Secure Coding Practices                      | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
 | Code Obfuscation Techniques                  | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
@@ -106,7 +106,7 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 ## Projects
 - <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>
 - <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement: From Penetration Testing to Log Analysis with Splunk</a>
-- Honeypot Deployment and Management
+- <a href="https://github.com/Falola-Uthman/Honeypot-Deployment-and-Management/blob/main/README.md">Honeypot Deployment and Management</a>
 - <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a>
 - <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>
 - <a href="https://github.com/Falola-Uthman/Vulnerability-Exploitation-Buffer-Overflow-/blob/main/README.md">Vulnerability Exploitation (Buffer Overflow)</a>
