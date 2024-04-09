@@ -22,11 +22,11 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 |Honeypot Implementation                         | Honeypot Deployment and Management |
 |Intrusion Detection                             | Honeypot Deployment and Management |
 |Threat Intelligence                             | Honeypot Deployment and Management |
-| Cryptographic Implementation                 | Polymorphism Code |
-| Secure Coding Practices                      | Polymorphism Code |
-| Code Obfuscation Techniques                  | Polymorphism Code |
-| Malware Defense Strategies                   | Polymorphism Code |
-| Intellectual Property Protection             | Polymorphism Code |
+| Cryptographic Implementation                 | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
+| Secure Coding Practices                      | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
+| Code Obfuscation Techniques                  | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
+| Malware Defense Strategies                   | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
+| Intellectual Property Protection             | <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a> |
 | Network Traffic Analysis                     | <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>    |
 | Anomaly Detection                            | <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>    |
 | Incident Handling                            | <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>    |
@@ -107,6 +107,6 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 - <a href="https://github.com/Falola-Uthman/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>
 - <a href="https://github.com/Falola-Uthman/Active-Directory-Security-Enhancement/blob/main/README.md">Active Directory Security Enhancement: From Penetration Testing to Log Analysis with Splunk</a>
 - Honeypot Deployment and Management
-- Polymorphisim Code
+- <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a>
 - <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>
 - Vulnerability Exploitation (Buffer Overflow)
