@@ -6,7 +6,7 @@ As an upcoming December 2024 Master's graduate in IT Security from Ontario Tech 
 
 ## Objective
 
-From a foundation in diverse industries and a Master’s in IT Security from Ontario Tech University in progress,I am keen to apply my expertise as a Security Analyst.
+With a foundation in diverse industries and currently pursuing a Master’s in IT Security from Ontario Tech University, I consistently create projects to stay abreast of emerging security challenges and maintain my practical skills. I am committed to applying my expertise as a Security Analyst.
 
 ## Skills
 
@@ -33,7 +33,11 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 | Exploit Development                          | <a href="https://github.com/Falola-Uthman/Vulnerability-Exploitation-Buffer-Overflow-/blob/main/README.md">Vulnerability Exploitation (Buffer Overflow)</a> |
 | Application Security Testing                 | <a href="https://github.com/Falola-Uthman/Vulnerability-Exploitation-Buffer-Overflow-/blob/main/README.md">Vulnerability Exploitation (Buffer Overflow)</a> |
 | Secure Coding Practices                      | <a href="https://github.com/Falola-Uthman/Vulnerability-Exploitation-Buffer-Overflow-/blob/main/README.md">Vulnerability Exploitation (Buffer Overflow)</a> |
-
+| Biometric Security Implementation            | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a>    |
+| Access Control Management                    | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a>    |
+| Threat Modeling                              | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a> |
+| System Integration                           | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a> |
+| Testing and Validation                       | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a> |
 
 
 ## Tools
@@ -110,3 +114,4 @@ From a foundation in diverse industries and a Master’s in IT Security from Ont
 - <a href="https://github.com/Falola-Uthman/Polymorphism-Code/blob/main/README.md">Polymorphisim Code</a>
 - <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>
 - <a href="https://github.com/Falola-Uthman/Vulnerability-Exploitation-Buffer-Overflow-/blob/main/README.md">Vulnerability Exploitation (Buffer Overflow)</a>
+- <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a>
