@@ -38,6 +38,11 @@ With a foundation in diverse industries and currently pursuing a Master’s in I
 | Threat Modeling                              | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a> |
 | System Integration                           | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a> |
 | Testing and Validation                       | <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a> |
+| Penetration Testing            | <a href="https://github.com/Falola-Uthman/Zerologon/blob/main/README.md">Zerologon Exploitation</a>    |
+| Network Security                   | <a href="https://github.com/Falola-Uthman/Zerologon/blob/main/README.md">Zerologon Exploitation</a>    |
+| Exploit Development                             | <a href="https://github.com/Falola-Uthman/Zerologon/blob/main/README.md">Zerologon Exploitation</a> |
+| Research and Documentation                           | <a href="https://github.com/Falola-Uthman/Zerologon/blob/main/README.md">Zerologon Exploitation</a> |
+| Cryptographic Analysis                      | <a href="https://github.com/Falola-Uthman/Zerologon/blob/main/README.md">Zerologon Exploitation</a> |
 
 
 ## Tools
@@ -115,3 +120,4 @@ With a foundation in diverse industries and currently pursuing a Master’s in I
 - <a href="https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/blob/main/README.md">Threat Hunting and Analysis of SSH</a>
 - <a href="https://github.com/Falola-Uthman/Vulnerability-Exploitation-Buffer-Overflow-/blob/main/README.md">Vulnerability Exploitation (Buffer Overflow)</a>
 - <a href="https://github.com/Falola-Uthman/Biometric-System/blob/main/README.md">Biometric System</a>
+- <a href="https://github.com/Falola-Uthman/Zerologon/blob/main/README.md">Zerologon Exploitation</a>
