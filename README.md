@@ -2,8 +2,6 @@
 <a href="https://linkedin.com/in/uthman-falola-250692156"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As an upcoming December 2024 Master's graduate in IT Security from Ontario Tech University, with 5 years of cross-sector experience in manufacturing, construction, and oil & gas, I am deeply passionate about technology and committed to solving complex problems in the cybersecurity field.
-
 ## Objective
 
 With a foundation in diverse industries and currently pursuing a Master’s in IT Security from Ontario Tech University, I consistently create projects to stay abreast of emerging security challenges and maintain my practical skills. I am committed to applying my expertise as a Security Analyst.
