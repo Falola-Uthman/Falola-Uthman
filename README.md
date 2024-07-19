@@ -4,7 +4,7 @@
 
 ## Objective
 
-With a foundation in diverse industries and currently pursuing a Master’s in IT Security from Ontario Tech University, I consistently create projects to stay abreast of emerging security challenges and maintain my practical skills. I am committed to applying my expertise as a Security Analyst.
+With about five years of industry experience across diverse sectors and a CompTIA Security+ certification, I am currently pursuing a Master’s in IT Security from Ontario Tech University. I consistently engage in projects to stay ahead of emerging security challenges and maintain my practical skills. I am dedicated to leveraging my expertise and experience as a Security Analyst.
 
 ## Skills
 
