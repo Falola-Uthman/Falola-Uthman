@@ -107,7 +107,7 @@ With about five years of industry experience across diverse sectors and a CompTI
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/-CySA%2B-0085CA?&style=for-the-badge&logo=CompTIA&logoColor=white" /> | in View
+    <img src="https://img.shields.io/badge/-CySA%2B-0085CA?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
