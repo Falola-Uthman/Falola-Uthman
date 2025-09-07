@@ -4,7 +4,7 @@
 
 ## Objective
 
-With about five years of industry experience across diverse sectors and a CompTIA Security+ certification, I am currently pursuing a Master’s in IT Security from Ontario Tech University. I consistently engage in projects to stay ahead of emerging security challenges and maintain my practical skills. I am dedicated to leveraging my expertise and experience as a Security Analyst.
+Cybersecurity professional with over 5 years of experience protecting systems through cryptography, PKI, SIEM, and incident response. Known for reducing security risks, improving compliance, and making systems stronger and more reliable. Skilled at both planning security strategies and applying hands-on solutions to keep organizations safe.
 
 ## Skills
 
